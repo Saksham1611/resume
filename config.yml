@@ -49,7 +49,7 @@ params:
           Quick one liner for understanding the description . 
           Project links too for easy access .
 
-        imageUrl: "/static/images/profile.png"
+        imageUrl: /images/profile.png
         imageTitle: You dont see me 
         imageWidth: 180
         imageHeight: 180
@@ -65,9 +65,9 @@ params:
         - name: twitter
           url:  https://twitter.com/capablegupta
         - name: github
-          url: "https://github.com/Saksham1611"
+          url:  https://github.com/Saksham1611
         - name: linkedin
-          url: "https://www.linkedin.com/in/sakshamgupta1611/"
+          url:  https://www.linkedin.com/in/sakshamgupta1611/
 
       # add more social icons. find more in svg.html file
       # - name: youtube
