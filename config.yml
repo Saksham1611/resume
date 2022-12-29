@@ -49,8 +49,8 @@ params:
           Quick one liner for understanding the description . 
           Project links too for easy access .
 
-        imageUrl: /images/profile.png
-        imageTitle: my image
+        imageUrl: "/static/images/profile.png"
+        imageTitle: You dont see me 
         imageWidth: 180
         imageHeight: 180
 
