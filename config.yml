@@ -1,9 +1,8 @@
 baseURL: https://Saksham1611.github.io/resume
 title: saksham.gupta
-paginate: 1
+paginate: 5
 theme: charlolamode
-
-
+publishDir: docs
 
 menu:
     main:
@@ -56,9 +55,11 @@ params:
         imageTitle: my image
         imageWidth: 180
         imageHeight: 180
+
         buttons:
             - name: Don't click me
               url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
     mainSections:
       - articles
 
