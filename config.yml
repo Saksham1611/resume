@@ -2,6 +2,7 @@ baseURL: https://Saksham1611.github.io/resume
 title: saksham.gupta
 paginate: 5
 theme: charlolamode
+# canonifyURLs : true
 publishDir: docs
 
 menu:
@@ -51,8 +52,8 @@ params:
 
         imageUrl: /images/profile.png
         imageTitle: You dont see me 
-        imageWidth: 180
-        imageHeight: 180
+        imageWidth: 220
+        imageHeight: 220
 
         buttons:
             - name: Don't click me
