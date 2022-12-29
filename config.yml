@@ -47,11 +47,9 @@ params:
         
 
           Quick one liner for understanding the description . 
-          Include projects for easy viewing on the site , similar 
-          to this one 
-          Remember , either
+          Project links too for easy access .
 
-        imageUrl: "/images/profile.png"
+        imageUrl: /images/profile.png
         imageTitle: my image
         imageWidth: 180
         imageHeight: 180
@@ -65,7 +63,7 @@ params:
 
     socialIcons:
         - name: twitter
-          url: "https://twitter.com/capablegupta"
+          url:  https://twitter.com/capablegupta
         - name: github
           url: "https://github.com/Saksham1611"
         - name: linkedin
